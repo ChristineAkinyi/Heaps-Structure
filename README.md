@@ -4,41 +4,42 @@ A tuple is an ordered, immutable collection of data values.
 
 They are defined using parentheses or the tuple()constructor, separated by commas, and can contain elements of different data types
 
-Advantages(Immutability):
+**Advantages**
 
+Immutable
 Are ordered
 Can be used to assign multiple variables at once
 Speed
 Memory efficiency 
 Can store many data types
 
-Disadvantages
+**Disadvantages**
 
 Are immutable
 Cannot be sorted in place like lists
 Are less flexible
 
-Properties
+**Properties**
 
 Immutable
 Are ordered and indexed
 Can contain duplicate items
 
-Accessing Elements
+**Accessing Elements**
 
 Indexing
 Slicing
 Using iteration
 Deleting
 
-Applications
+**Applications**
 
 Storing coordinates
 Storing date and time
 Return multiple values from a function
 Immutable configuration settings
 
-Removing Items
+**Removing Items**
 
 You first change the tuple to a list then add items to the list.
 
